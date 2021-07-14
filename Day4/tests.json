@@ -1,0 +1,20 @@
+[
+    {
+        "initial": "111111-111112",
+        "expected": {
+            "part1": 2
+        }
+    },
+    {
+        "initial": "223450-223456",
+        "expected": {
+            "part1": 2
+        }
+    },
+    {
+        "initial": "123765-123789",
+        "expected": {
+            "part1": 4
+        }
+    }
+]
